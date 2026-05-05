@@ -1,6 +1,6 @@
    Solidity Group Project
 
-~ Project Overview
+~Project Overview
 
 This repository contains our group work for the Solidity course assignment. 
 The project demonstrates our progress in learning smart contract development, including code implementation, course materials, and supporting documentation.
