@@ -8,15 +8,21 @@ The project demonstrates our progress in learning smart contract development, in
  Group Members                      id
 
 Hemen Girma                    ugr/30650/15
+
 Kalkidan Wondwosen             ugr/30746/15
+
 Martha Alemayehu               ugr/30856/15
+
 Bethlehem Kefeni               ugr/30289/15
+
 Hanamariam Mesfin              ugr/25483/15
 
 ~Course Information
 
  Platform: Alchemy University
+
  Topic: Solidity & Smart Contract Development
+
  Focus Areas:
   - Basics of Solidity
   - Writing Smart Contracts
@@ -26,8 +32,11 @@ Hanamariam Mesfin              ugr/25483/15
       ~ Repository Structure
 
 /code                  # Solidity source files
-/screenshots         # Progress and completion screenshots
-/course-materials      # Notes and learning resources
+
+/screenshots  #Progressandcompletionscreenshots
+
+/course-materials    #Notesandlearningresources
+
 /docs                # Additional documentation
 
    ~ What We Learned
